@@ -15,7 +15,6 @@
 ---
 
 ## 🧠 About Me
-
 ```typescript
 const yash = {
   degree     : "B.Tech — 2nd Year",
@@ -25,7 +24,7 @@ const yash = {
   openTo     : "Internships, Collaborations & Open Source",
   motto      : "Build first. Learn along the way.",
 };
-```
+` `` 
 
 ---
 
@@ -135,3 +134,6 @@ If you're working on something interesting in **AI, healthtech, or full-stack we
 *Still learning. Still building. Still growing.* ⭐
 
 </div>
+```
+
+> ⚠️ **One note:** In the "About Me" section, make sure the closing triple backtick (` ``` `) has nothing after it and is on its own line. I had to slightly break it above to avoid rendering issues here — in your actual file it should just be three normal backticks closing the code block.
