@@ -39,7 +39,7 @@ A personalized 3D simulation of lungs and tumors generated from CT scans — ena
 ## 🛠 Tech Stack
 
 ### 💻 Languages
-<p>
+<p align="left">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
@@ -48,14 +48,14 @@ A personalized 3D simulation of lungs and tumors generated from CT scans — ena
 </p>
 
 ### ⚙️ Frameworks & Libraries
-<p>
+<p align="left">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 </p>
 
 ### 🤖 AI / ML & Cloud
-<p>
+<p align="left">
 <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Machine%20Learning-6366f1?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS%20Bedrock-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
@@ -63,7 +63,7 @@ A personalized 3D simulation of lungs and tumors generated from CT scans — ena
 </p>
 
 ### 🧰 Tools
-<p>
+<p align="left">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
@@ -75,9 +75,16 @@ A personalized 3D simulation of lungs and tumors generated from CT scans — ena
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Yashkhadgi&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=Yashkhadgi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashkhadgi&layout=compact&theme=tokyonight&cache_seconds=1800" />
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashkhadgi&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img width="760"
+src="https://streak-stats.demolab.com?user=Yashkhadgi&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -110,6 +117,6 @@ A personalized 3D simulation of lungs and tumors generated from CT scans — ena
 
 <div align="center">
 
-✨ *Still learning. Still building. Still growing.*  
+✨ <i>Still learning. Still building. Still growing.</i>
 
 </div>
