@@ -1,312 +1,460 @@
-\<h1 align="center">Hey 👋, I'm Yash Khadgi</h1>
+<div align="center">
 
-<h3 align="center">
-Software & AI Systems Developer | Full-Stack Engineering | System Architecture & Product Innovation
-</h3>
+# Hey 👋, I'm Yash Khadgi
 
-<p align="center">
-I transform real-world problems into structured, intelligent and buildable software systems.
-</p>
+### Software & AI Systems Builder
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/yash-khadgi-b6528b314">
-    <img src="https://img.shields.io/badge/LinkedIn-Yash%20Khadgi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Yashkhadgi">
-    <img src="https://img.shields.io/badge/GitHub-Yashkhadgi-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Yashkhadgi&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-</p>
+**Full-Stack Development • Applied AI/ML • System Architecture**
+
+I transform complex real-world problems into structured, intelligent and buildable software systems.
+
+<br>
+
+<a href="https://www.linkedin.com/in/yash-khadgi-b6528b314">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="https://ieeexplore.ieee.org/document/11467327">
+  <img src="https://img.shields.io/badge/IEEE-View%20Publication-00629B?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE Publication">
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=Yashkhadgi&label=Profile%20Views&color=6d28d9&style=for-the-badge" alt="Profile Views">
+
+</div>
+
+---
+
+<div align="center">
+
+![IEEE Publication](https://img.shields.io/badge/Research-IEEE%20Published-00629B?style=flat-square)
+![Patents](https://img.shields.io/badge/Innovation-2%20Published%20Patents-16a34a?style=flat-square)
+![IDEA 2.0](https://img.shields.io/badge/IDEA%202.0-Top%201%25%20of%201500%20Teams-f59e0b?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-Software%20%2B%20AI%20Systems-7c3aed?style=flat-square)
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-* 🎓 B.Tech Computer Science student at **Symbiosis Institute of Technology, Nagpur**
-* 📊 Pursuing the **BS in Data Science and Applications** program at IIT Madras
-* 💻 Experienced in building **full-stack applications, AI-powered tools and machine-learning systems**
-* 🧠 My strongest skill is **system architecture, product ideation and converting complex problems into structured technical solutions**
-* 🏗️ I have designed the architecture and technical workflows for multiple individual, team and hackathon projects
-* ☁️ Hands-on experience with AWS services and currently preparing for an AWS certification
-* 🚀 Currently strengthening my DSA, full-stack development and independent software-engineering skills
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 Education
+
+* **B.Tech in Computer Science**
+  Symbiosis Institute of Technology, Nagpur
+
+* **BS in Data Science and Applications**
+  IIT Madras
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 Current Focus
+
+* Data Structures and Algorithms
+* AWS certification preparation
+* Stronger full-stack development
+* Independent coding and problem solving
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 My Strongest Skill
+
+Understanding complex problems, designing their architecture, dividing them into practical modules and converting ideas into buildable products.
+
+</td>
+<td width="50%" valign="top">
+
+### 🚀 What I Build
+
+* Full-stack applications
+* AI and ML systems
+* Research-oriented software
+* Cloud-integrated prototypes
+* Architecture-driven products
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🧠 What I Bring to a Project
+## 🏆 Highlights
 
-* Designing complete system architecture and technical workflows
-* Breaking complex ideas into practical modules and development phases
-* Selecting suitable technologies for frontend, backend, databases, cloud and AI
-* Converting real-world problem statements into buildable software products
-* Integrating machine learning and AI into practical applications
-* Rapid prototyping using AI-assisted development
-* Taking technical ownership during brainstorming and system planning
-* Connecting frontend, backend, databases and AI components into complete systems
+<table>
+<tr>
+<td width="33%" align="center" valign="top">
 
----
+### 📄 Research
 
-## 🚀 Featured Projects
+Published an Agriculture Price Prediction research paper at **IEEE TEMSMET 2025**.
 
-### 📊 CustomerPulse
+[View Publication](https://ieeexplore.ieee.org/document/11467327)
 
-**AI-powered customer complaint intelligence and operations platform**
+</td>
+<td width="33%" align="center" valign="top">
 
-CustomerPulse helps organizations import, analyze, review and manage large volumes of customer complaints through a connected dashboard and AI-powered backend.
+### 💡 Innovation
 
-* Built complaint ingestion, queue management and SLA-monitoring workflows
-* Added AI-based complaint enrichment and risk-aware human-review routing
-* Implemented duplicate detection and semantic similarity search
-* Added vector search and RAG using PostgreSQL with pgvector
-* Supports batch AI processing, analytics, CSV exports and PDF reports
-* Added real-time events using FastAPI WebSockets
-* Containerized the complete application using Docker Compose and Nginx
+Published patents for:
 
-**Tech Stack:** Next.js, React, TypeScript, Tailwind CSS, FastAPI, PostgreSQL, SQLAlchemy, pgvector, AWS Bedrock, AWS S3, Docker, Nginx, Pytest
+**Agriculture Price Prediction**
+**CycleCura**
 
-<p>
-  <a href="https://github.com/Yashkhadgi/CustomerPulse">
-    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+[View CycleCura Announcement](https://www.linkedin.com/posts/rudrakshi-bhandekar-b9257731a_patentpublished-innovation-machinelearning-ugcPost-7445436264180482048-3LYe)
 
----
+</td>
+<td width="33%" align="center" valign="top">
 
-### ✋ AASB — AI Air Smartboard
+### 🏅 Achievement
 
-**Gesture-controlled virtual smartboard powered by computer vision**
+Ranked among the **top 1% of approximately 1,500 teams** at IDEA 2.0.
 
-AASB allows users to write, draw and interact with a digital canvas using real-time hand gestures.
+[View Achievement](https://www.linkedin.com/posts/yash-khadgi-b6528b314_35daysofsummerskillupgrade-idea2-unionbankofindia-ugcPost-7479857894104928256-sQbB)
 
-* Implemented real-time hand tracking and gesture recognition
-* Connected computer-vision processing with an interactive web canvas
-* Built real-time communication using FastAPI and WebSockets
-* Designed the complete architecture and feature workflow
-* Supports gesture-based drawing, selection and smartboard interactions
-
-**Tech Stack:** Python, OpenCV, MediaPipe, FastAPI, WebSockets, React
-
-<p>
-  <a href="https://github.com/Yashkhadgi/AASB-Ai_Air_Smartboard">
-    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
-### 🫁 LungTwin V2
+## 🧩 Core Strengths
 
-**AI-powered lung cancer research and visualization platform**
+<div align="center">
 
-LungTwin V2 is a research-oriented system for exploring lung CT data, tumor regions and machine-learning-based patient analysis.
+|              🏗️ System Architecture              |              💻 Product Engineering              |                   🤖 Applied AI/ML                   |
+| :-----------------------------------------------: | :----------------------------------------------: | :--------------------------------------------------: |
+|     Designing modules, workflows and data flow    | Turning real-world problems into usable products | Integrating ML, computer vision, RAG and AI services |
+|           **🔗 Full-Stack Integration**           |            **🎯 Technical Ownership**            |                **⚡ Rapid Prototyping**               |
+| Connecting frontend, backend, databases and cloud |   Leading technical brainstorming and planning   |   Accelerating development using AI-assisted tools   |
 
-* Supports medical-image and DICOM data visualization
-* Provides interactive CT slice and tumor-region exploration
-* Integrates machine-learning components for risk and outcome analysis
-* Includes backend APIs and a modern interactive frontend
-* Designed as a research prototype and not as a clinical diagnostic system
-
-**Tech Stack:** Python, FastAPI, React, Medical Imaging, Machine Learning, Data Visualization
-
-<p>
-  <a href="https://github.com/Yashkhadgi/LungTwin_V2">
-    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+</div>
 
 ---
 
-### 🔍 MemoryLens
+# 🚀 Featured Projects
 
-**AI-powered multimodal file search and retrieval system**
+<details open>
+<summary><b>📊 CustomerPulse — AI Customer Complaint Intelligence Platform</b></summary>
 
-MemoryLens helps users search files using extracted text, semantic meaning, faces and contextual memory cues.
+<br>
 
-* Built document-processing and intelligent indexing workflows
-* Implemented semantic similarity search using FAISS
-* Supports extraction and processing of document content
-* Combines local indexing with configurable AI and cloud intelligence services
-* Developed backend APIs and an interactive frontend
-* Designed the complete search, indexing and retrieval architecture
+> A full-stack operations platform that helps organizations import, process, analyze, review and manage large volumes of customer complaints.
 
-**Tech Stack:** Python, FastAPI, React, FAISS, PyMuPDF, AWS Rekognition, AWS Textract, AWS Bedrock
+### Key Capabilities
 
-<p>
-  <a href="https://github.com/Yashkhadgi/memorylens">
-    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+* Complaint ingestion, queue management and SLA monitoring
+* AI-based complaint enrichment and risk-aware review routing
+* Duplicate detection, semantic search and RAG
+* Human-review workflows and audit history
+* Analytics, CSV exports and PDF reports
+* Real-time WebSocket events
+* Docker and Nginx-based deployment
 
----
+### My Contribution
 
-### 🌾 Agriculture Price Prediction
+**System architecture, product workflow design and technical planning**
 
-**Machine-learning system for agricultural commodity price prediction**
+### Technology Stack
 
-A research-based machine-learning project developed to analyze historical agricultural data and predict commodity-price trends.
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=nextdotjs\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
+![AWS Bedrock](https://img.shields.io/badge/AWS-Bedrock-FF9900?style=flat-square\&logo=amazonaws\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
 
-* Performed data preprocessing, feature analysis and model evaluation
-* Applied machine-learning algorithms to agricultural-price datasets
-* Designed the complete prediction and analysis workflow
-* Published as a research paper at **IEEE TEMSMET 2025**
-* Patent published for the proposed Agriculture Price Prediction system
-
-**Tech Stack:** Python, Pandas, NumPy, scikit-learn, Matplotlib, Machine Learning
-
-<p>
-  <a href="https://ieeexplore.ieee.org/document/11467327">
-    <img src="https://img.shields.io/badge/IEEE%20Publication-00629B?style=for-the-badge&logo=ieee&logoColor=white"/>
-  </a>
-</p>
-
-<!-- Add Agriculture Price Prediction repository and patent links here later.
-
-<a href="AGRICULTURE_REPOSITORY_LINK">
-  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<p align="center">
+<a href="https://github.com/Yashkhadgi/CustomerPulse">
+<img src="https://img.shields.io/badge/Explore%20CustomerPulse-181717?style=for-the-badge&logo=github&logoColor=white" alt="CustomerPulse Repository">
 </a>
+</p>
 
-<a href="AGRICULTURE_PATENT_LINK">
-  <img src="https://img.shields.io/badge/Patent%20Publication-4CAF50?style=for-the-badge"/>
+</details>
+
+---
+
+<details open>
+<summary><b>✋ AASB — AI Air Smartboard</b></summary>
+
+<br>
+
+> A real-time virtual smartboard that allows users to write, draw and control a digital canvas using hand gestures.
+
+### Key Capabilities
+
+* Real-time hand tracking and gesture recognition
+* Air-writing and gesture-controlled drawing
+* Computer-vision-based interaction engine
+* FastAPI and WebSocket communication
+* Interactive React smartboard interface
+* Low-latency modular architecture
+
+### My Contribution
+
+**System architecture, workflow design and feature planning**
+
+### Technology Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square\&logo=opencv\&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-Realtime-111827?style=flat-square)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
+
+<p align="center">
+<a href="https://github.com/Yashkhadgi/AASB-Ai_Air_Smartboard">
+<img src="https://img.shields.io/badge/Explore%20AASB-181717?style=for-the-badge&logo=github&logoColor=white" alt="AASB Repository">
 </a>
+</p>
 
--->
+</details>
 
 ---
 
-## 🏆 Achievements, Research & Innovation
+<details open>
+<summary><b>🫁 LungTwin V2 — Lung Cancer Research & Visualization Platform</b></summary>
 
-* 📄 Published a research paper on **Agriculture Price Prediction** at IEEE TEMSMET 2025
-  [View IEEE Publication](https://ieeexplore.ieee.org/document/11467327)
+<br>
 
-* 💡 Patent published for an **Agriculture Price Prediction System**
+> A research-oriented software platform for exploring lung CT data, tumor regions and machine-learning-assisted patient analysis.
 
-* 💡 Patent published for **CycleCura**, an AI-assisted menstrual-health and PCOS/PCOD risk-assessment platform
-  [View Patent Announcement](https://www.linkedin.com/posts/rudrakshi-bhandekar-b9257731a_patentpublished-innovation-machinelearning-ugcPost-7445436264180482048-3LYe)
+### Key Capabilities
 
-* 🏅 Ranked among the **top 1% of approximately 1,500 teams** at **IDEA 2.0**, a national-level innovation challenge associated with Union Bank of India and KJ Somaiya
-  [View Achievement](https://www.linkedin.com/posts/yash-khadgi-b6528b314_35daysofsummerskillupgrade-idea2-unionbankofindia-ugcPost-7479857894104928256-sQbB)
+* DICOM CT-scan visualization
+* Interactive CT slice exploration
+* Tumor-region and GTV overlays
+* Three-dimensional medical-image visualization
+* ML-assisted risk and outcome analysis
+* Experimental tumor-growth simulation
 
-* 💼 Completed a **Python Full-Stack Development Internship**
+### My Contribution
 
-* 🌐 Serving as a **Web Developer at IEEE SIT Nagpur**
+**Architecture, feature workflow and AI-system planning**
+
+### Technology Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-7c3aed?style=flat-square)
+![Medical Imaging](https://img.shields.io/badge/Medical%20Imaging-DICOM-dc2626?style=flat-square)
+
+> **Disclaimer:** LungTwin V2 is a research prototype and is not intended for clinical diagnosis or medical decision-making.
+
+<p align="center">
+<a href="https://github.com/Yashkhadgi/LungTwin_V2">
+<img src="https://img.shields.io/badge/Explore%20LungTwin%20V2-181717?style=for-the-badge&logo=github&logoColor=white" alt="LungTwin Repository">
+</a>
+</p>
+
+</details>
 
 ---
 
-## 🛠️ Technologies I Have Worked With
+<details>
+<summary><b>🔍 MemoryLens — Multimodal Intelligent File Search</b></summary>
 
-### Programming Languages
+<br>
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+> An intelligent file-search system that helps users retrieve files using extracted text, semantic meaning, faces and contextual memory cues.
+
+### Key Capabilities
+
+* Document processing and intelligent indexing
+* Semantic similarity search using FAISS
+* Text and metadata extraction
+* Face and document intelligence integrations
+* Unified indexing and retrieval workflow
+* FastAPI backend and interactive frontend
+
+### My Contribution
+
+**Product ideation, system architecture and search-workflow design**
+
+### Technology Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
+![FAISS](https://img.shields.io/badge/FAISS-Semantic%20Search-2563eb?style=flat-square)
+![PyMuPDF](https://img.shields.io/badge/PyMuPDF-Document%20Processing-059669?style=flat-square)
+![AWS](https://img.shields.io/badge/AWS-AI%20Services-FF9900?style=flat-square\&logo=amazonaws\&logoColor=white)
+
+<p align="center">
+<a href="https://github.com/Yashkhadgi/memorylens">
+<img src="https://img.shields.io/badge/Explore%20MemoryLens-181717?style=for-the-badge&logo=github&logoColor=white" alt="MemoryLens Repository">
+</a>
 </p>
 
-### Frontend Development
+</details>
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+---
+
+<details>
+<summary><b>🌾 Agriculture Price Prediction — IEEE Published ML Research</b></summary>
+
+<br>
+
+> A research-based machine-learning system for analyzing historical agricultural data and predicting commodity-price trends.
+
+### Project Highlights
+
+* Historical agricultural-data preprocessing and analysis
+* Feature engineering and model evaluation
+* Commodity-price prediction using machine-learning algorithms
+* Research paper published at IEEE TEMSMET 2025
+* Patent published for the proposed prediction system
+
+### Technology Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=numpy\&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square\&logo=scikitlearn\&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+
+<p align="center">
+<a href="https://ieeexplore.ieee.org/document/11467327">
+<img src="https://img.shields.io/badge/Read%20IEEE%20Publication-00629B?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE Publication">
+</a>
 </p>
 
-### Backend & APIs
+<!-- Add the repository and Agriculture patent links here later. -->
 
-<p>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge"/>
-</p>
+</details>
 
-### Databases & Search
+---
 
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge"/>
-</p>
+# 🛠️ Technical Stack
 
-### AI, Machine Learning & Python Libraries
+## Core Technologies
 
-<p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Sentence%20Transformers-FFD21E?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/RAG-6366F1?style=for-the-badge"/>
-</p>
+<div align="center">
 
-### AWS & Cloud
+### Programming & Web
 
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS%20Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Amazon%20RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS%20IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS%20Rekognition-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS%20Textract-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
 
-### Development, Testing & Deployment
+### Development & Cloud
 
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"/>
-</p>
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+
+</div>
+
+<br>
+
+<details>
+<summary><b>🔧 View Technologies Used Across My Projects</b></summary>
+
+<br>
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=nextdotjs\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square\&logo=tailwindcss\&logoColor=white)
+
+### Backend, Databases & APIs
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST-APIs-6366f1?style=flat-square)
+![WebSockets](https://img.shields.io/badge/WebSockets-Realtime-111827?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square\&logo=sqlite\&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square\&logo=sqlalchemy\&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-Vector%20Search-2563eb?style=flat-square)
+
+### AI, ML & Computer Vision
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=numpy\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square\&logo=scikitlearn\&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square\&logo=opencv\&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-Hand%20Tracking-0097A7?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-Semantic%20Search-2563eb?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-AI%20Systems-7c3aed?style=flat-square)
+
+### Deployment, Testing & AWS
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square\&logo=nginx\&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square\&logo=pytest\&logoColor=white)
+![AWS Bedrock](https://img.shields.io/badge/AWS-Bedrock-FF9900?style=flat-square\&logo=amazonaws\&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/AWS-S3-569A31?style=flat-square\&logo=amazons3\&logoColor=white)
+![Amazon EC2](https://img.shields.io/badge/AWS-EC2-FF9900?style=flat-square\&logo=amazonec2\&logoColor=white)
+![Amazon RDS](https://img.shields.io/badge/AWS-RDS-527FFF?style=flat-square\&logo=amazonrds\&logoColor=white)
+![AWS IAM](https://img.shields.io/badge/AWS-IAM-DD344C?style=flat-square\&logo=amazonaws\&logoColor=white)
+
+</details>
 
 ---
 
 ## 📚 Currently Learning
 
-* 🧩 Data Structures and Algorithms through structured IIT Madras coursework
-* ☁️ AWS cloud technologies and certification preparation
-* 🌐 Strengthening full-stack software development
-* 🗄️ Strengthening SQL and database-management fundamentals
-* 🧪 Writing cleaner, testable and production-oriented software
-* 🗣️ Improving technical communication and interview skills
+<table>
+<tr>
+<td width="33%" align="center" valign="top">
+
+### 🧩 DSA
+
+Structured learning through IIT Madras and interview-oriented problem practice.
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### ☁️ AWS
+
+Cloud fundamentals, hands-on services and certification preparation.
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### 🌐 Full-Stack
+
+Strengthening application development, databases, APIs and deployment skills.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📈 Coding & Problem-Solving Journey
-
-* Practising Python and problem solving on HackerRank
-* Solving interview-oriented DSA problems on LeetCode
-* Learning DSA through the IIT Madras structured curriculum
-* Practising SQL through DBMS coursework and coding platforms
-* Rebuilding consistency through regular GitHub commits
-* Planning to contribute to open-source projects
-
-> Coding certifications, contest ratings and problem-solving milestones will be added as meaningful achievements are reached.
-
----
-
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=Yashkhadgi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"/>
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yashkhadgi&theme=tokyonight" alt="GitHub Stats">
 
-<img width="45%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashkhadgi&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"/>
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yashkhadgi&theme=tokyonight" alt="Repositories per Language">
+
+</div>
+
+<div align="center">
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yashkhadgi&theme=tokyonight" alt="Most Used Languages">
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Yashkhadgi&theme=tokyonight&utcOffset=5.5" alt="Productive Time">
 
 </div>
 
@@ -314,37 +462,24 @@ A research-based machine-learning project developed to analyze historical agricu
 
 <div align="center">
 
-<img width="70%"
-    src="https://streak-stats.demolab.com?user=Yashkhadgi&theme=tokyonight&hide_border=true"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=Yashkhadgi&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak">
 
 </div>
 
 <br>
 
-<div align="center">
-
-<img width="95%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Yashkhadgi&theme=tokyo-night&hide_border=true&area=true"/>
-
-</div>
+<details open>
+<summary><b>📈 View My Recent Contribution Activity</b></summary>
 
 <br>
 
 <div align="center">
 
-<img width="95%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yashkhadgi&theme=tokyonight"/>
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Yashkhadgi&theme=tokyo-night&hide_border=true&area=true&custom_title=Yash%20Khadgi's%20Contribution%20Graph" alt="Contribution Graph">
 
 </div>
 
-<br>
-
-<div align="center">
-
-<img width="95%"
-    src="https://github-profile-trophy.vercel.app/?username=Yashkhadgi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6"/>
-
-</div>
+</details>
 
 ---
 
@@ -352,22 +487,18 @@ A research-based machine-learning project developed to analyze historical agricu
 
 <div align="center">
 
-  <a href="https://www.linkedin.com/in/yash-khadgi-b6528b314">
-    <img src="https://img.shields.io/badge/LinkedIn-Yash%20Khadgi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+I am interested in software engineering, AI-powered products, system architecture, research-oriented projects and meaningful technical collaborations.
 
-  <a href="https://github.com/Yashkhadgi">
-    <img src="https://img.shields.io/badge/GitHub-Yashkhadgi-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+<br><br>
 
-</div>
+<a href="https://www.linkedin.com/in/yash-khadgi-b6528b314">
+<img src="https://img.shields.io/badge/Let's%20Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 
-<br>
-
-<div align="center">
+<br><br>
 
 ### Building ideas into structured, intelligent and impactful software systems.
 
-✨ <i>Learning consistently. Building independently. Improving every day.</i>
+*Learning consistently • Building independently • Improving every day*
 
 </div>
